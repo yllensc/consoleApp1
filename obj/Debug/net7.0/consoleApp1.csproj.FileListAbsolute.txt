@@ -1,0 +1,15 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/bin/Debug/net7.0/consoleApp1
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/bin/Debug/net7.0/consoleApp1.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/bin/Debug/net7.0/consoleApp1.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/bin/Debug/net7.0/consoleApp1.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/bin/Debug/net7.0/consoleApp1.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/refint/consoleApp1.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/ref/consoleApp1.dll

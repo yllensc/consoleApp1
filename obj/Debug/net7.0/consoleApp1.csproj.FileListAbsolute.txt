@@ -13,3 +13,18 @@
 /home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.pdb
 /home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/consoleApp1.genruntimeconfig.cache
 /home/arteN01-060/Documents/c#r3yllensantamaria/consoleApp1/obj/Debug/net7.0/ref/consoleApp1.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\bin\Debug\net7.0\consoleApp1.exe
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\bin\Debug\net7.0\consoleApp1.deps.json
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\bin\Debug\net7.0\consoleApp1.runtimeconfig.json
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\bin\Debug\net7.0\consoleApp1.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\bin\Debug\net7.0\consoleApp1.pdb
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.csproj.AssemblyReference.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.AssemblyInfoInputs.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.AssemblyInfo.cs
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.csproj.CoreCompileInputs.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\refint\consoleApp1.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.pdb
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\consoleApp1.genruntimeconfig.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\consoleApp1\obj\Debug\net7.0\ref\consoleApp1.dll
